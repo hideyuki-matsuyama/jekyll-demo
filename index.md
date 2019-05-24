@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<link rel="alternate" type="application/atom+xml" title="Your Blog's Name" href="/feed.xml" />
