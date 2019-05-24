@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ちょっと"
-date:   2019-05-24 10:00:00 +0900
+date:   2019-05-24 10:00:01 +0900
 categories: jekyll update
 ---
 なんですか！
