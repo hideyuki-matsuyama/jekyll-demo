@@ -24,8 +24,10 @@ github_username: hideyuki-matsuyama
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+feed:
+  path: atom.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
