@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/hideyuki-matsuyama/jekyll-demo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hideyuki-matsuyama/jekyll-demo/actions/workflows/pages/pages-build-deployment)
+
 # はじめかた
 
 ```sh
